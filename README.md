@@ -4,7 +4,7 @@
 
 ## About
 
-This Netflix L Page clone has been made from scratch using
+This Netflix home Page clone has been made from scratch using
 
 - HTML
 - CSS
